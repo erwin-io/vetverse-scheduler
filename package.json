@@ -1,0 +1,23 @@
+{
+  "name": "vetverse-scheduler",
+  "version": "1.0.0",
+  "description": "vetverse-scheduler",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erwin-io/vetverse-scheduler.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erwin-io/vetverse-scheduler/issues"
+  },
+  "homepage": "https://github.com/erwin-io/vetverse-scheduler#readme",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
