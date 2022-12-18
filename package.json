@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/erwin-io/vetverse-scheduler#readme",
   "dependencies": {
+    "dotenv": "^16.0.3",
     "request": "^2.88.2"
   }
 }
